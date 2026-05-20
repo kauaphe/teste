@@ -1,3 +1,1 @@
-se=(1)
-True(1>1)
-print(se)
+novaTupla = (1,2,3,4)
